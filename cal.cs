@@ -5,3 +5,8 @@ class Addition {
 class Substraction {
     Console.WriteLine("Hello from substraction");
 }
+
+class Multiply {
+    Console.WriteLine("Hello from substraction");
+
+}
